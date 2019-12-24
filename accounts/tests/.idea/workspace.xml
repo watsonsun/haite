@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13e21f03-65a4-4471-9a79-13b5597f602d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VITCm9Tt65DEgmOLKHWKF4a0UD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13e21f03-65a4-4471-9a79-13b5597f602d" name="Default Changelist" comment="" />
+      <created>1576939483272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576939483272</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="475" y="122" width="530" height="605" key="FileChooserDialogImpl" timestamp="1576939732279">
+      <screen x="50" y="33" width="1390" height="777" />
+    </state>
+    <state x="475" y="122" width="530" height="605" key="FileChooserDialogImpl/50.33.1390.777@50.33.1390.777" timestamp="1576939732279" />
+    <state x="110" y="33" width="1259" height="777" key="SettingsEditor" timestamp="1576939668691">
+      <screen x="50" y="33" width="1390" height="777" />
+    </state>
+    <state x="110" y="33" width="1259" height="777" key="SettingsEditor/50.33.1390.777@50.33.1390.777" timestamp="1576939668691" />
+  </component>
+</project>
