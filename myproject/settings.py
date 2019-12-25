@@ -11,7 +11,17 @@ https://docs.djangoproject.com/en/3.0/ref/settings/
 """
 
 import os
+from decouple import config, Csv
+import dj_database_url
 
+SECRET_KEY = config('SECRET_KEY')
+DEBUG = config('DEBUG', default=False, cast=bool)
+ALLOWED_HOSTS = config('ALLOWED_HOSTS', cast=Csv())
+DATABASES = {
+    'default': dj_database_url.config(
+        default=config('DATABASE_URL')
+    )
+}
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -26,13 +36,6 @@ SECRET_KEY = '__@@$ydm#p!m_-2ge^ri#mb4)c4vf)#u4vm2g52p1-3zolo+qr'
 DEBUG = True
 
 ALLOWED_HOSTS = []
-'''
-import requests
-s=requests.Session()
-s_username = 'root'
-s_email = 'ngsengngiap@gmail.com'
-s_password = 'password'
-'''
 
 # Application definition
 
